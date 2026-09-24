@@ -1,0 +1,12 @@
+{
+  "name": "Relay",
+  "version": "1.0.0",
+  "description": "UDP/XUDP Relay.",
+  "main": "relay.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node relay.js"
+  }
+}
